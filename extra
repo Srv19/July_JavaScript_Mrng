@@ -34,7 +34,6 @@ Ecma 7
 > Prototypes
 > Call/Apply
 > DoM
-////////////////////////
 > Calc
 > Geolocation
 > Form validation
@@ -42,12 +41,12 @@ Ecma 7
 > currenyConvertor
 > promis
 > async await
-> Progress bar
 > JSON
+> Progress bar
+> screen
 > palindrome
 > fabonicci
 > factorial
-> screen
 > Dynamic DropDown
 > Weather application
 > ajax
